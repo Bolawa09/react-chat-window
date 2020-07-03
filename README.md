@@ -1,5 +1,7 @@
 # Warning!
 
+[![Run on Repl.it](https://repl.it/badge/github/kingofthestack/react-chat-window)](https://repl.it/github/kingofthestack/react-chat-window)
+
 This repo is not actively maintained or developed by kingofthestack. PRs, issues, and feature requests may not receive any response.
 
 Thank you for the support over the years for RCW! We appologize for the inconvenience.
